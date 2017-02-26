@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.7)  22 FEB 2017 22:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.7.7)  26 FEB 2017 15:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -667,7 +667,26 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) (./relatorio.aux)
+)) (./relatorio.aux
+
+LaTeX Warning: Label `fig:placeholder.jpg' multiply defined.
+
+
+LaTeX Warning: Label `fig:placeholder.jpg' multiply defined.
+
+
+LaTeX Warning: Label `fig:placeholder.jpg' multiply defined.
+
+
+LaTeX Warning: Label `fig:placeholder.jpg' multiply defined.
+
+
+LaTeX Warning: Label `fig:placeholder.jpg' multiply defined.
+
+
+LaTeX Warning: Label `fig:placeholder.jpg' multiply defined.
+
+)
 \openout1 = `relatorio.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -687,8 +706,7 @@ LaTeX Font Info:    ... okay on input line 13.
 Class revtex4 Info: Patching LaTeX tabular. on input line 13.
 Class revtex4 Info: cite was not loaded (OK!) on input line 13.
 Class revtex4 Info: multicol was not loaded (OK!) on input line 13.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count137
 \scratchdimen=\dimen118
@@ -815,22 +833,7 @@ Package babel Info: Redefining portuges shorthand "|
 [2]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 4.
- (./relatorio.toc
-Overfull \hbox (5.49997pt too wide) detected at line 11
- \T1/lmtt/m/n/10 11
- []
-
-
-Overfull \hbox (5.49997pt too wide) detected at line 12
- \T1/lmtt/m/n/10 12
- []
-
-
-Overfull \hbox (5.49997pt too wide) detected at line 13
- \T1/lmtt/m/n/10 12
- []
-
-)
+ (./relatorio.toc)
 \tf@toc=\write4
 \openout4 = `relatorio.toc'.
 
@@ -843,22 +846,71 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+[]\T1/lmtt/m/n/10 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut 
+purus elit, vestibulum ut,
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\T1/lmtt/m/n/10 placerat ac, adipiscing vitae, felis. Curabitur dictum gravida 
+mauris. Nam arcu libero, nonummy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\T1/lmtt/m/n/10 eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+ eu neque. Pellentesque habitant
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\T1/lmtt/m/n/10 morbi tristique senectus et netus et malesuada fames ac turpis 
+egestas. Mauris ut leo. Cras
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\T1/lmtt/m/n/10 viverra metus rhoncus sem. Nulla et lectus vestibulum urna frin
+gilla ultrices. Phasellus eu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\T1/lmtt/m/n/10 tellus sit amet tortor gravida placerat. Integer sapien est, ia
+culis in, pretium quis, viverra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\T1/lmtt/m/n/10 ac, nunc. Praesent eget sem vel leo ultrices bibendum. Aenean f
+aucibus. Morbi dolor nulla,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\T1/lmtt/m/n/10 malesuada eu, pulvinar at, mollis ac, nulla. Curabitur auctor s
+emper nulla. Donec varius orci
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\T1/lmtt/m/n/10 eget risus. Duis nibh mi, congue eu, accumsan eleifend, sagitti
+s quis, diam. Duis eget orci sit
  []
 
 <imagens/placeholder.jpg, id=71, 1003.75pt x 597.23125pt>
 File: imagens/placeholder.jpg Graphic file (type jpg)
 
 <use imagens/placeholder.jpg>
-Package pdftex.def Info: imagens/placeholder.jpg used on input line 8.
+Package pdftex.def Info: imagens/placeholder.jpg used on input line 6.
 (pdftex.def)             Requested size: 1003.74756pt x 597.22978pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+LaTeX Font Info:    Try loading font information for U+msa on input line 10.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+LaTeX Font Info:    Try loading font information for U+msb on input line 10.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -920,229 +972,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 s quis, diam. Duis eget orci sit
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Nam dui ligula, fringilla a, euismod sodales, sollicitudin ve
-l, wisi. Morbi auctor lorem non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 justo. Nam lacus libero, pretium at, lobortis vitae, ultricies 
-et, tellus. Donec aliquet,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 tortor sed accumsan bibendum, erat ligula aliquet magna, vitae 
-ornare odio metus a mi. Morbi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ac orci et nisl hendrerit mollis. Suspendisse ut massa. Cras ne
-c ante. Pellentesque a nulla.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Cum sociis natoque penatibus et magnis dis parturient montes, n
-ascetur ridiculus mus. Aliquam
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2.
-[4 <./imagens/placeholder.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Nulla malesuada porttitor diam. Donec felis erat, congue non,
- volutpat at, tincidunt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 tristique, libero. Vivamus viverra fermentum felis. Donec nonum
-my pellentesque ante. Phasellus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 adipiscing semper elit. Proin fermentum massa ac quam. Sed diam
- turpis, molestie vitae,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum ligu
-la, eleifend at, accumsan nec,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 suscipit a, ipsum. Morbi blandit ligula feugiat magna. Nunc ele
-ifend consequat lorem. Sed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 lacinia nulla vitae enim. Pellentesque tincidunt purus vel magn
-a. Integer non enim. Praesent
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 euismod nunc eu purus. Donec bibendum quam in tellus. Nullam cu
-rsus pulvinar lectus. Donec et
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel just
-o vitae lacus tincidunt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing e
-lit. In hac habitasse platea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 dictumst. Integer tempus convallis augue. Etiam facilisis. Nunc
- elementum fermentum wisi.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, f
-elis odio placerat quam, ac
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 pulvinar elit purus eget enim. Nunc vitae tortor. Proin tempus 
-nibh sit amet nisl. Vivamus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum,
- nulla a faucibus semper, leo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestib
-ulum diam. Aliquam pellentesque,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 augue quis sagittis posuere, turpis lacus congue quam, in hendr
-erit risus eros eget felis.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Maecenas eget erat in sapien mattis porttitor. Vestibulum portt
-itor. Nulla facilisi. Sed a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 turpis eu lacus commodo facilisis. Morbi fringilla, wisi in dig
-nissim interdum, justo lectus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sagittis dui, et vehicula libero dui cursus dui. Mauris tempor 
-ligula sed lacus. Duis cursus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 enim ut augue. Cras ac magna. Cras nulla. Nulla egestas. Curabi
-tur a leo. Quisque egestas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Suspendisse vel felis. Ut lorem lorem, interdum eu, tincidunt
- sit amet, laoreet vitae, arcu.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Aenean faucibus pede eu ante. Praesent enim elit, rutrum at, mo
-lestie non, nonummy vel, nisl.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Ut lectus eros, malesuada sit amet, fermentum eu, sodales cursu
-s, magna. Donec eu purus.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Quisque vehicula, urna sed ultricies auctor, pede lorem egestas
- dui, et convallis elit erat sed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 nulla. Donec luctus. Curabitur et nunc. Aliquam dolor odio, com
-modo pretium, ultricies non,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Sed commodo posuere pede. Mauris ut est. Ut quis purus. Sed a
-c odio. Sed vehicula hendrerit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sem. Duis non odio. Morbi ut dui. Sed accumsan risus eget odio.
- In hac habitasse platea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 dictumst. Pellentesque non elit. Fusce sed justo eu urna porta 
-tincidunt. Mauris felis odio,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sollicitudin sed, volutpat a, ornare ac, erat. Morbi quis dolor
-. Donec pellentesque, erat
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ac sagittis semper, nunc dui lobortis purus, quis congue purus 
-metus ultricies tellus. Proin
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 et quam. Class aptent taciti sociosqu ad litora torquent per co
-nubia nostra, per inceptos
- []
-
 File: imagens/placeholder.jpg Graphic file (type jpg)
 <use imagens/placeholder.jpg>
-Package pdftex.def Info: imagens/placeholder.jpg used on input line 4.
+Package pdftex.def Info: imagens/placeholder.jpg used on input line 5.
 (pdftex.def)             Requested size: 1003.74756pt x 597.22978pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 7.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 7.
- [5]) (./section/procedimentos.tex
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./section/procedimentos.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
@@ -1199,225 +1037,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 s quis, diam. Duis eget orci sit
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Nam dui ligula, fringilla a, euismod sodales, sollicitudin ve
-l, wisi. Morbi auctor lorem non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 justo. Nam lacus libero, pretium at, lobortis vitae, ultricies 
-et, tellus. Donec aliquet,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 tortor sed accumsan bibendum, erat ligula aliquet magna, vitae 
-ornare odio metus a mi. Morbi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ac orci et nisl hendrerit mollis. Suspendisse ut massa. Cras ne
-c ante. Pellentesque a nulla.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Cum sociis natoque penatibus et magnis dis parturient montes, n
-ascetur ridiculus mus. Aliquam
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Nulla malesuada porttitor diam. Donec felis erat, congue non,
- volutpat at, tincidunt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 tristique, libero. Vivamus viverra fermentum felis. Donec nonum
-my pellentesque ante. Phasellus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 adipiscing semper elit. Proin fermentum massa ac quam. Sed diam
- turpis, molestie vitae,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum ligu
-la, eleifend at, accumsan nec,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 suscipit a, ipsum. Morbi blandit ligula feugiat magna. Nunc ele
-ifend consequat lorem. Sed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 lacinia nulla vitae enim. Pellentesque tincidunt purus vel magn
-a. Integer non enim. Praesent
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 euismod nunc eu purus. Donec bibendum quam in tellus. Nullam cu
-rsus pulvinar lectus. Donec et
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel just
-o vitae lacus tincidunt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing e
-lit. In hac habitasse platea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 dictumst. Integer tempus convallis augue. Etiam facilisis. Nunc
- elementum fermentum wisi.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, f
-elis odio placerat quam, ac
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 pulvinar elit purus eget enim. Nunc vitae tortor. Proin tempus 
-nibh sit amet nisl. Vivamus
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum,
- nulla a faucibus semper, leo
- []
+[4pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestib
-ulum diam. Aliquam pellentesque,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 augue quis sagittis posuere, turpis lacus congue quam, in hendr
-erit risus eros eget felis.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Maecenas eget erat in sapien mattis porttitor. Vestibulum portt
-itor. Nulla facilisi. Sed a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 turpis eu lacus commodo facilisis. Morbi fringilla, wisi in dig
-nissim interdum, justo lectus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sagittis dui, et vehicula libero dui cursus dui. Mauris tempor 
-ligula sed lacus. Duis cursus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 enim ut augue. Cras ac magna. Cras nulla. Nulla egestas. Curabi
-tur a leo. Quisque egestas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Suspendisse vel felis. Ut lorem lorem, interdum eu, tincidunt
- sit amet, laoreet vitae, arcu.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Aenean faucibus pede eu ante. Praesent enim elit, rutrum at, mo
-lestie non, nonummy vel, nisl.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Ut lectus eros, malesuada sit amet, fermentum eu, sodales cursu
-s, magna. Donec eu purus.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Quisque vehicula, urna sed ultricies auctor, pede lorem egestas
- dui, et convallis elit erat sed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 nulla. Donec luctus. Curabitur et nunc. Aliquam dolor odio, com
-modo pretium, ultricies non,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Sed commodo posuere pede. Mauris ut est. Ut quis purus. Sed a
-c odio. Sed vehicula hendrerit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sem. Duis non odio. Morbi ut dui. Sed accumsan risus eget odio.
- In hac habitasse platea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 dictumst. Pellentesque non elit. Fusce sed justo eu urna porta 
-tincidunt. Mauris felis odio,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sollicitudin sed, volutpat a, ornare ac, erat. Morbi quis dolor
-. Donec pellentesque, erat
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ac sagittis semper, nunc dui lobortis purus, quis congue purus 
-metus ultricies tellus. Proin
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 et quam. Class aptent taciti sociosqu ad litora torquent per co
-nubia nostra, per inceptos
- []
-
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2 \lipsum[1]
+               <./imagens/placeholder.jpg>]
 File: imagens/placeholder.jpg Graphic file (type jpg)
-<use imagens/placeholder.jpg>
-Package pdftex.def Info: imagens/placeholder.jpg used on input line 4.
+ <use imagens/placeholder.jpg>
+Package pdftex.def Info: imagens/placeholder.jpg used on input line 5.
 (pdftex.def)             Requested size: 1003.74756pt x 597.22978pt.
-) (./section/resultados.tex
+)
+(./section/resultados.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
@@ -1478,499 +1114,88 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-[]\T1/lmtt/m/n/10 Nam dui ligula, fringilla a, euismod sodales, sollicitudin ve
-l, wisi. Morbi auctor lorem non
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.3 \lipsum[1]
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.3 \lipsum[1]
+              ]
+File: imagens/placeholder.jpg Graphic file (type jpg)
+ <use imagens/placeholder.jpg>
+Package pdftex.def Info: imagens/placeholder.jpg used on input line 6.
+(pdftex.def)             Requested size: 1003.74756pt x 597.22978pt.
+) (./section/analise.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[]\T1/lmtt/m/n/10 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut 
+purus elit, vestibulum ut,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 justo. Nam lacus libero, pretium at, lobortis vitae, ultricies 
-et, tellus. Donec aliquet,
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\T1/lmtt/m/n/10 placerat ac, adipiscing vitae, felis. Curabitur dictum gravida 
+mauris. Nam arcu libero, nonummy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 tortor sed accumsan bibendum, erat ligula aliquet magna, vitae 
-ornare odio metus a mi. Morbi
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\T1/lmtt/m/n/10 eget, consectetuer id, vulputate a, magna. Donec vehicula augue
+ eu neque. Pellentesque habitant
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 ac orci et nisl hendrerit mollis. Suspendisse ut massa. Cras ne
-c ante. Pellentesque a nulla.
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\T1/lmtt/m/n/10 morbi tristique senectus et netus et malesuada fames ac turpis 
+egestas. Mauris ut leo. Cras
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 Cum sociis natoque penatibus et magnis dis parturient montes, n
-ascetur ridiculus mus. Aliquam
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\T1/lmtt/m/n/10 viverra metus rhoncus sem. Nulla et lectus vestibulum urna frin
+gilla ultrices. Phasellus eu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-[]\T1/lmtt/m/n/10 Nulla malesuada porttitor diam. Donec felis erat, congue non,
- volutpat at, tincidunt
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\T1/lmtt/m/n/10 tellus sit amet tortor gravida placerat. Integer sapien est, ia
+culis in, pretium quis, viverra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 tristique, libero. Vivamus viverra fermentum felis. Donec nonum
-my pellentesque ante. Phasellus
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\T1/lmtt/m/n/10 ac, nunc. Praesent eget sem vel leo ultrices bibendum. Aenean f
+aucibus. Morbi dolor nulla,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 adipiscing semper elit. Proin fermentum massa ac quam. Sed diam
- turpis, molestie vitae,
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\T1/lmtt/m/n/10 malesuada eu, pulvinar at, mollis ac, nulla. Curabitur auctor s
+emper nulla. Donec varius orci
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum ligu
-la, eleifend at, accumsan nec,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 suscipit a, ipsum. Morbi blandit ligula feugiat magna. Nunc ele
-ifend consequat lorem. Sed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 lacinia nulla vitae enim. Pellentesque tincidunt purus vel magn
-a. Integer non enim. Praesent
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 euismod nunc eu purus. Donec bibendum quam in tellus. Nullam cu
-rsus pulvinar lectus. Donec et
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-[]\T1/lmtt/m/n/10 Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel just
-o vitae lacus tincidunt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing e
-lit. In hac habitasse platea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 dictumst. Integer tempus convallis augue. Etiam facilisis. Nunc
- elementum fermentum wisi.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, f
-elis odio placerat quam, ac
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 pulvinar elit purus eget enim. Nunc vitae tortor. Proin tempus 
-nibh sit amet nisl. Vivamus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-[]\T1/lmtt/m/n/10 Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum,
- nulla a faucibus semper, leo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestib
-ulum diam. Aliquam pellentesque,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 augue quis sagittis posuere, turpis lacus congue quam, in hendr
-erit risus eros eget felis.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 Maecenas eget erat in sapien mattis porttitor. Vestibulum portt
-itor. Nulla facilisi. Sed a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 turpis eu lacus commodo facilisis. Morbi fringilla, wisi in dig
-nissim interdum, justo lectus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 sagittis dui, et vehicula libero dui cursus dui. Mauris tempor 
-ligula sed lacus. Duis cursus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 enim ut augue. Cras ac magna. Cras nulla. Nulla egestas. Curabi
-tur a leo. Quisque egestas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-[]\T1/lmtt/m/n/10 Suspendisse vel felis. Ut lorem lorem, interdum eu, tincidunt
- sit amet, laoreet vitae, arcu.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 Aenean faucibus pede eu ante. Praesent enim elit, rutrum at, mo
-lestie non, nonummy vel, nisl.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 Ut lectus eros, malesuada sit amet, fermentum eu, sodales cursu
-s, magna. Donec eu purus.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 Quisque vehicula, urna sed ultricies auctor, pede lorem egestas
- dui, et convallis elit erat sed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 nulla. Donec luctus. Curabitur et nunc. Aliquam dolor odio, com
-modo pretium, ultricies non,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-[]\T1/lmtt/m/n/10 Sed commodo posuere pede. Mauris ut est. Ut quis purus. Sed a
-c odio. Sed vehicula hendrerit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 sem. Duis non odio. Morbi ut dui. Sed accumsan risus eget odio.
- In hac habitasse platea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 dictumst. Pellentesque non elit. Fusce sed justo eu urna porta 
-tincidunt. Mauris felis odio,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 sollicitudin sed, volutpat a, ornare ac, erat. Morbi quis dolor
-. Donec pellentesque, erat
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 ac sagittis semper, nunc dui lobortis purus, quis congue purus 
-metus ultricies tellus. Proin
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\T1/lmtt/m/n/10 et quam. Class aptent taciti sociosqu ad litora torquent per co
-nubia nostra, per inceptos
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\T1/lmtt/m/n/10 eget risus. Duis nibh mi, congue eu, accumsan eleifend, sagitti
+s quis, diam. Duis eget orci sit
  []
 
 File: imagens/placeholder.jpg Graphic file (type jpg)
 <use imagens/placeholder.jpg>
 Package pdftex.def Info: imagens/placeholder.jpg used on input line 5.
 (pdftex.def)             Requested size: 1003.74756pt x 597.22978pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 8.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 8.
- [8]) (./section/analise.tex
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut 
-purus elit, vestibulum ut,
- []
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 placerat ac, adipiscing vitae, felis. Curabitur dictum gravida 
-mauris. Nam arcu libero, nonummy
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 eget, consectetuer id, vulputate a, magna. Donec vehicula augue
- eu neque. Pellentesque habitant
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 morbi tristique senectus et netus et malesuada fames ac turpis 
-egestas. Mauris ut leo. Cras
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 viverra metus rhoncus sem. Nulla et lectus vestibulum urna frin
-gilla ultrices. Phasellus eu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 tellus sit amet tortor gravida placerat. Integer sapien est, ia
-culis in, pretium quis, viverra
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ac, nunc. Praesent eget sem vel leo ultrices bibendum. Aenean f
-aucibus. Morbi dolor nulla,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 malesuada eu, pulvinar at, mollis ac, nulla. Curabitur auctor s
-emper nulla. Donec varius orci
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 eget risus. Duis nibh mi, congue eu, accumsan eleifend, sagitti
-s quis, diam. Duis eget orci sit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Nam dui ligula, fringilla a, euismod sodales, sollicitudin ve
-l, wisi. Morbi auctor lorem non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 justo. Nam lacus libero, pretium at, lobortis vitae, ultricies 
-et, tellus. Donec aliquet,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 tortor sed accumsan bibendum, erat ligula aliquet magna, vitae 
-ornare odio metus a mi. Morbi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ac orci et nisl hendrerit mollis. Suspendisse ut massa. Cras ne
-c ante. Pellentesque a nulla.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Cum sociis natoque penatibus et magnis dis parturient montes, n
-ascetur ridiculus mus. Aliquam
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Nulla malesuada porttitor diam. Donec felis erat, congue non,
- volutpat at, tincidunt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 tristique, libero. Vivamus viverra fermentum felis. Donec nonum
-my pellentesque ante. Phasellus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 adipiscing semper elit. Proin fermentum massa ac quam. Sed diam
- turpis, molestie vitae,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum ligu
-la, eleifend at, accumsan nec,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 suscipit a, ipsum. Morbi blandit ligula feugiat magna. Nunc ele
-ifend consequat lorem. Sed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 lacinia nulla vitae enim. Pellentesque tincidunt purus vel magn
-a. Integer non enim. Praesent
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 euismod nunc eu purus. Donec bibendum quam in tellus. Nullam cu
-rsus pulvinar lectus. Donec et
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel just
-o vitae lacus tincidunt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing e
-lit. In hac habitasse platea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 dictumst. Integer tempus convallis augue. Etiam facilisis. Nunc
- elementum fermentum wisi.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, f
-elis odio placerat quam, ac
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 pulvinar elit purus eget enim. Nunc vitae tortor. Proin tempus 
-nibh sit amet nisl. Vivamus
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2.
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum,
- nulla a faucibus semper, leo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestib
-ulum diam. Aliquam pellentesque,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 augue quis sagittis posuere, turpis lacus congue quam, in hendr
-erit risus eros eget felis.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Maecenas eget erat in sapien mattis porttitor. Vestibulum portt
-itor. Nulla facilisi. Sed a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 turpis eu lacus commodo facilisis. Morbi fringilla, wisi in dig
-nissim interdum, justo lectus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sagittis dui, et vehicula libero dui cursus dui. Mauris tempor 
-ligula sed lacus. Duis cursus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 enim ut augue. Cras ac magna. Cras nulla. Nulla egestas. Curabi
-tur a leo. Quisque egestas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Suspendisse vel felis. Ut lorem lorem, interdum eu, tincidunt
- sit amet, laoreet vitae, arcu.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Aenean faucibus pede eu ante. Praesent enim elit, rutrum at, mo
-lestie non, nonummy vel, nisl.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Ut lectus eros, malesuada sit amet, fermentum eu, sodales cursu
-s, magna. Donec eu purus.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Quisque vehicula, urna sed ultricies auctor, pede lorem egestas
- dui, et convallis elit erat sed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 nulla. Donec luctus. Curabitur et nunc. Aliquam dolor odio, com
-modo pretium, ultricies non,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Sed commodo posuere pede. Mauris ut est. Ut quis purus. Sed a
-c odio. Sed vehicula hendrerit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sem. Duis non odio. Morbi ut dui. Sed accumsan risus eget odio.
- In hac habitasse platea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 dictumst. Pellentesque non elit. Fusce sed justo eu urna porta 
-tincidunt. Mauris felis odio,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sollicitudin sed, volutpat a, ornare ac, erat. Morbi quis dolor
-. Donec pellentesque, erat
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ac sagittis semper, nunc dui lobortis purus, quis congue purus 
-metus ultricies tellus. Proin
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 et quam. Class aptent taciti sociosqu ad litora torquent per co
-nubia nostra, per inceptos
- []
-
-File: imagens/placeholder.jpg Graphic file (type jpg)
-<use imagens/placeholder.jpg>
-Package pdftex.def Info: imagens/placeholder.jpg used on input line 4.
-(pdftex.def)             Requested size: 1003.74756pt x 597.22978pt.
 ) (./section/conclusao.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
@@ -2032,225 +1257,18 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Nam dui ligula, fringilla a, euismod sodales, sollicitudin ve
-l, wisi. Morbi auctor lorem non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 justo. Nam lacus libero, pretium at, lobortis vitae, ultricies 
-et, tellus. Donec aliquet,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 tortor sed accumsan bibendum, erat ligula aliquet magna, vitae 
-ornare odio metus a mi. Morbi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ac orci et nisl hendrerit mollis. Suspendisse ut massa. Cras ne
-c ante. Pellentesque a nulla.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Cum sociis natoque penatibus et magnis dis parturient montes, n
-ascetur ridiculus mus. Aliquam
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Nulla malesuada porttitor diam. Donec felis erat, congue non,
- volutpat at, tincidunt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 tristique, libero. Vivamus viverra fermentum felis. Donec nonum
-my pellentesque ante. Phasellus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 adipiscing semper elit. Proin fermentum massa ac quam. Sed diam
- turpis, molestie vitae,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum ligu
-la, eleifend at, accumsan nec,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 suscipit a, ipsum. Morbi blandit ligula feugiat magna. Nunc ele
-ifend consequat lorem. Sed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 lacinia nulla vitae enim. Pellentesque tincidunt purus vel magn
-a. Integer non enim. Praesent
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 euismod nunc eu purus. Donec bibendum quam in tellus. Nullam cu
-rsus pulvinar lectus. Donec et
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel just
-o vitae lacus tincidunt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing e
-lit. In hac habitasse platea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 dictumst. Integer tempus convallis augue. Etiam facilisis. Nunc
- elementum fermentum wisi.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, f
-elis odio placerat quam, ac
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 pulvinar elit purus eget enim. Nunc vitae tortor. Proin tempus 
-nibh sit amet nisl. Vivamus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum,
- nulla a faucibus semper, leo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestib
-ulum diam. Aliquam pellentesque,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 augue quis sagittis posuere, turpis lacus congue quam, in hendr
-erit risus eros eget felis.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Maecenas eget erat in sapien mattis porttitor. Vestibulum portt
-itor. Nulla facilisi. Sed a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 turpis eu lacus commodo facilisis. Morbi fringilla, wisi in dig
-nissim interdum, justo lectus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sagittis dui, et vehicula libero dui cursus dui. Mauris tempor 
-ligula sed lacus. Duis cursus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 enim ut augue. Cras ac magna. Cras nulla. Nulla egestas. Curabi
-tur a leo. Quisque egestas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Suspendisse vel felis. Ut lorem lorem, interdum eu, tincidunt
- sit amet, laoreet vitae, arcu.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Aenean faucibus pede eu ante. Praesent enim elit, rutrum at, mo
-lestie non, nonummy vel, nisl.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Ut lectus eros, malesuada sit amet, fermentum eu, sodales cursu
-s, magna. Donec eu purus.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Quisque vehicula, urna sed ultricies auctor, pede lorem egestas
- dui, et convallis elit erat sed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 nulla. Donec luctus. Curabitur et nunc. Aliquam dolor odio, com
-modo pretium, ultricies non,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Sed commodo posuere pede. Mauris ut est. Ut quis purus. Sed a
-c odio. Sed vehicula hendrerit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sem. Duis non odio. Morbi ut dui. Sed accumsan risus eget odio.
- In hac habitasse platea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 dictumst. Pellentesque non elit. Fusce sed justo eu urna porta 
-tincidunt. Mauris felis odio,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sollicitudin sed, volutpat a, ornare ac, erat. Morbi quis dolor
-. Donec pellentesque, erat
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ac sagittis semper, nunc dui lobortis purus, quis congue purus 
-metus ultricies tellus. Proin
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 et quam. Class aptent taciti sociosqu ad litora torquent per co
-nubia nostra, per inceptos
- []
-
+[6pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2 \lipsum[1]
+              ]
 File: imagens/placeholder.jpg Graphic file (type jpg)
-<use imagens/placeholder.jpg>
-Package pdftex.def Info: imagens/placeholder.jpg used on input line 4.
+ <use imagens/placeholder.jpg>
+Package pdftex.def Info: imagens/placeholder.jpg used on input line 5.
 (pdftex.def)             Requested size: 1003.74756pt x 597.22978pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 7.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 7.
- [11]) (./section/bibliografia.tex
+) (./section/bibliografia.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 3.
@@ -2314,231 +1332,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 s quis, diam. Duis eget orci sit
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Nam dui ligula, fringilla a, euismod sodales, sollicitudin ve
-l, wisi. Morbi auctor lorem non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 justo. Nam lacus libero, pretium at, lobortis vitae, ultricies 
-et, tellus. Donec aliquet,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 tortor sed accumsan bibendum, erat ligula aliquet magna, vitae 
-ornare odio metus a mi. Morbi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ac orci et nisl hendrerit mollis. Suspendisse ut massa. Cras ne
-c ante. Pellentesque a nulla.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Cum sociis natoque penatibus et magnis dis parturient montes, n
-ascetur ridiculus mus. Aliquam
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Nulla malesuada porttitor diam. Donec felis erat, congue non,
- volutpat at, tincidunt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 tristique, libero. Vivamus viverra fermentum felis. Donec nonum
-my pellentesque ante. Phasellus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 adipiscing semper elit. Proin fermentum massa ac quam. Sed diam
- turpis, molestie vitae,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum ligu
-la, eleifend at, accumsan nec,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 suscipit a, ipsum. Morbi blandit ligula feugiat magna. Nunc ele
-ifend consequat lorem. Sed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 lacinia nulla vitae enim. Pellentesque tincidunt purus vel magn
-a. Integer non enim. Praesent
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 euismod nunc eu purus. Donec bibendum quam in tellus. Nullam cu
-rsus pulvinar lectus. Donec et
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel just
-o vitae lacus tincidunt
- []
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) 
+has been already used, duplicate ignored
 
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2 \lipsum[1]
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.6}) has been already used, duplicate ignored
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing e
-lit. In hac habitasse platea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 dictumst. Integer tempus convallis augue. Etiam facilisis. Nunc
- elementum fermentum wisi.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, f
-elis odio placerat quam, ac
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 pulvinar elit purus eget enim. Nunc vitae tortor. Proin tempus 
-nibh sit amet nisl. Vivamus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum,
- nulla a faucibus semper, leo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestib
-ulum diam. Aliquam pellentesque,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 augue quis sagittis posuere, turpis lacus congue quam, in hendr
-erit risus eros eget felis.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Maecenas eget erat in sapien mattis porttitor. Vestibulum portt
-itor. Nulla facilisi. Sed a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 turpis eu lacus commodo facilisis. Morbi fringilla, wisi in dig
-nissim interdum, justo lectus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sagittis dui, et vehicula libero dui cursus dui. Mauris tempor 
-ligula sed lacus. Duis cursus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 enim ut augue. Cras ac magna. Cras nulla. Nulla egestas. Curabi
-tur a leo. Quisque egestas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Suspendisse vel felis. Ut lorem lorem, interdum eu, tincidunt
- sit amet, laoreet vitae, arcu.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Aenean faucibus pede eu ante. Praesent enim elit, rutrum at, mo
-lestie non, nonummy vel, nisl.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Ut lectus eros, malesuada sit amet, fermentum eu, sodales cursu
-s, magna. Donec eu purus.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 Quisque vehicula, urna sed ultricies auctor, pede lorem egestas
- dui, et convallis elit erat sed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 nulla. Donec luctus. Curabitur et nunc. Aliquam dolor odio, com
-modo pretium, ultricies non,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]\T1/lmtt/m/n/10 Sed commodo posuere pede. Mauris ut est. Ut quis purus. Sed a
-c odio. Sed vehicula hendrerit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sem. Duis non odio. Morbi ut dui. Sed accumsan risus eget odio.
- In hac habitasse platea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 dictumst. Pellentesque non elit. Fusce sed justo eu urna porta 
-tincidunt. Mauris felis odio,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 sollicitudin sed, volutpat a, ornare ac, erat. Morbi quis dolor
-. Donec pellentesque, erat
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 ac sagittis semper, nunc dui lobortis purus, quis congue purus 
-metus ultricies tellus. Proin
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
-\T1/lmtt/m/n/10 et quam. Class aptent taciti sociosqu ad litora torquent per co
-nubia nostra, per inceptos
- []
-
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2 \lipsum[1]
+              ]
 File: imagens/placeholder.jpg Graphic file (type jpg)
-<use imagens/placeholder.jpg>
-Package pdftex.def Info: imagens/placeholder.jpg used on input line 4.
+ <use imagens/placeholder.jpg>
+Package pdftex.def Info: imagens/placeholder.jpg used on input line 5.
 (pdftex.def)             Requested size: 1003.74756pt x 597.22978pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 7.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 7.
- [13])
+)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 38.
- [14]
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.38 \end{document}
+                   ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 38.
  (./relatorio.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 38.
@@ -2550,15 +1373,18 @@ Package rerunfilecheck Info: File `relatorio.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.12pt have occured.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 9000 strings out of 493029
- 122762 string characters out of 6136235
- 334575 words of memory out of 5000000
- 12317 multiletter control sequences out of 15000+600000
- 23575 words of font info for 67 fonts, out of 8000000 for 9000
+ 9015 strings out of 493029
+ 123162 string characters out of 6136235
+ 332670 words of memory out of 5000000
+ 12326 multiletter control sequences out of 15000+600000
+ 22167 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,7n,33p,236b,670s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,7n,33p,264b,633s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/
 fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
@@ -2567,18 +1393,17 @@ cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm
-/lmtt12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb></usr/share/texmf
-/fonts/type1/public/lm/lmtt9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtti1
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/te
-xmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/publ
-ic/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000
-.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/tex
-mf/fonts/type1/public/cm-super/sfti1440.pfb></usr/share/texmf/fonts/type1/publi
-c/cm-super/sftt0900.pfb>
-Output written on relatorio.pdf (14 pages, 507879 bytes).
+/lmtt12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt9.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb>
+Output written on relatorio.pdf (8 pages, 477785 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
- 161 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
+ 187 PDF objects out of 1000 (max. 8388607)
+ 155 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
