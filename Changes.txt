@@ -1,3 +1,6 @@
 Versão 1.0.1
 >Bibliografia agora segue o padrão ABNT para livros e sites
 >Textos e imagens placeholders ajustadas para fornecer um visual de como fica o documento compilado.
+
+Versão 1.0.2
+>Rollback do codigo de geração de snippets para inserção de imagens
