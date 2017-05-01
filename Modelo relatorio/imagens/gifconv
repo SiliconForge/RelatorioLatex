@@ -1,2 +1,0 @@
-#!/bin/bash
-for file in *.gif ; do convert "$file" "${file/%gif/png}" ; done
